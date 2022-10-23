@@ -59,5 +59,5 @@
   <a href="https://medium.com/@serhankuyumcu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 <a href="https://docdro.id/UBW4BnZ" target="_blank"><img src="https://img.shields.io/badge/Personal CV-<color=white>"/> </a>
-----------
+
 

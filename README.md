@@ -26,7 +26,7 @@
   
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Express-js" src="https://img.shields.io/badge/-Express-6e93d8?style=flat-square&logo=express&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  
   
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -37,7 +37,7 @@
   <img alt="js" src="https://img.shields.io/badge/-JAVASCRIPT-ce5504?style=flat-square&logo=javascript&logoColor=white" />
   
   
-  
+
   
  
 </p>
@@ -58,6 +58,6 @@
   <a href="https://www.linkedin.com/in/serhan-kuyumcu-2b7350113/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://medium.com/@serhankuyumcu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-<a href="https://docdro.id/UBW4BnZ" target="_blank"><img src="https://img.shields.io/badge/Personal CV-<color=white>"/> </a>
+<a href="https://docdro.id/UBW4BnZ" target="_blank"><img src="https://img.shields.io/badge/Personal CV?logoWidth=40-<color=white>"/> </a>
 
 

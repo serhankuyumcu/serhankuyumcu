@@ -58,6 +58,6 @@
   <a href="https://www.linkedin.com/in/serhan-kuyumcu-2b7350113/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
   <a href="https://medium.com/@serhankuyumcu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-<a href="https://docdro.id/UBW4BnZ" target="_blank"><img src="https://img.shields.io/badge/Personal CV width="40" color=white>"/> </a>
+<a href="https://docdro.id/UBW4BnZ" target="_blank"><img src="https://img.shields.io/badge/Personal CV  <width="40"> <color=white>"/> </a>
 
 

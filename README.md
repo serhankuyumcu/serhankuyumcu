@@ -47,9 +47,9 @@
 
 <h3>Greetings from Antalya <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="13"/> Antalya</h3>
   <p>
- <img src="https://rentilen.sirv.com/erus-group_antalya-konyaalti_02-1024x576.jpg" width="200" alt="" />
+ <img src="https://rentilen.sirv.com/erus-group_antalya-konyaalti_02-1024x576.jpg" width="180" alt="" />
  <img src="https://rentilen.sirv.com/Antalya-konyaalti-scaled.jpg" width="200"  alt="" />
- <img src="https://rentilen.sirv.com/5f5e26542af10716e40ce530.webp" width="200"  alt="" />
+ <img src="https://rentilen.sirv.com/5f5e26542af10716e40ce530.webp" width="180"  alt="" />
 
 <p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/antalya_fotograflar_cennet/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @antalya_fotograflar_cennet</a><br/>Currently, the weather is: <b> 35°C, <i>clear sky</i></b></br>Today, the sun rises at <b>05:07</b> and sets at <b>20:37</b>.</p>
 <h3>Where to find me</h3>

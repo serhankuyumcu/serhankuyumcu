@@ -1,63 +1,69 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<br>
-<br>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
-</p>
+<h1>Hi, I'm Serhan 👋</h1>
 
-<p>Welcome to my page! </br> I'm Serhan, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="17"/> <b>Istanbul, Turkey</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="17"/> <b>Antalya, Turkey</b>. </p>
-<h3>Things I code with</h3>
 <p>
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <br>
-  
-  <img alt="Amazon" src="https://img.shields.io/badge/-Amazon-FF69B4?style=flat-square&logo=amazon&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Github Deployment" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  
-  <br>
-  
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Express-js" src="https://img.shields.io/badge/-Express-6e93d8?style=flat-square&logo=express&logoColor=white" />
-  
-  
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <br>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="css3" src="https://img.shields.io/badge/-CSS3-078c12?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="js" src="https://img.shields.io/badge/-JAVASCRIPT-ce5504?style=flat-square&logo=javascript&logoColor=white" />
-  
-  
-
-  
- 
+Full-stack developer from <b>Istanbul</b>, based in <b>Antalya</b>, Turkey.<br/>
+I build and ship my own products end to end: web, mobile, database, payments and the store listings that sell them.
 </p>
 
+---
 
+### 🚀 What I'm building
 
+**[Kira Kontrol](https://kira-kontrol.com)** · rent tracking for landlords
+Track properties, tenants, monthly rent and payments in one place, with reminders for due dates and contract endings.
 
-<h3>Greetings from Antalya <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="13"/> Antalya</h3>
-  <p>
- <img src="https://rentilen.sirv.com/erus-group_antalya-konyaalti_02-1024x576.jpg" width="180" alt="" />
- <img src="https://rentilen.sirv.com/Antalya-konyaalti-scaled.jpg" width="200"  alt="" />
- <img src="https://rentilen.sirv.com/5f5e26542af10716e40ce530.webp" width="180"  alt="" />
+- 🌐 Web app: Next.js 14 (App Router), TypeScript, Tailwind, Supabase
+- 📱 Mobile app: React Native / Expo, push notifications, in-app subscriptions with RevenueCat
+- 🗣️ Available in Turkish, English and Russian
 
-<p>Above are the last 3 pictures posted by <a href="https://www.instagram.com/antalya_fotograflar_cennet/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="20"/> @antalya_fotograflar_cennet</a><br/>Currently, the weather is: <b> 35°C, <i>clear sky</i></b></br>Today, the sun rises at <b>05:07</b> and sets at <b>20:37</b>.</p>
-<h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/serhankuyumcu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/serhan-kuyumcu-2b7350113/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://medium.com/@serhankuyumcu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://apps.apple.com/tr/app/kira-kontrol/id6756940744"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.serhankuyumcu.kirakontrol"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
+  <a href="https://kira-kontrol.com"><img alt="Website" src="https://img.shields.io/badge/kira--kontrol.com-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
-<a href="https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/cc962426-c13d-485d-9f02-59d1afca3b6f?view=html" target="_blank"><img src="https://img.shields.io/badge/-Personal CV-<COLOR>" /> </a>
 
+**[Renovation Antalya](https://renovationantalya.com)** · multilingual website for a renovation business in Antalya, with service pages, a project portfolio and a blog in Turkish, English and Russian, built with SEO in mind.
 
+---
+
+### 🛠️ Tech I work with
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <br/>
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="RevenueCat" src="https://img.shields.io/badge/RevenueCat-F25A5A?style=flat-square&logoColor=white" />
+  <br/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 💡 How I work
+
+- I ship complete products, not just features: from the database schema to the App Store review.
+- I care about the details users notice: fast pages, clear UI and an app that speaks their language.
+- I measure what happens after launch and keep improving based on real usage.
+
+---
+
+### 📫 Where to find me
+
+<p>
+  <a href="https://www.linkedin.com/in/serhan-kuyumcu-2b7350113/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://medium.com/@serhankuyumcu"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://europa.eu/europass/eportfolio/api/eprofile/shared-profile/cc962426-c13d-485d-9f02-59d1afca3b6f?view=html"><img alt="CV" src="https://img.shields.io/badge/Personal_CV-555555?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+</p>
